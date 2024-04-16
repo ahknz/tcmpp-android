@@ -1,0 +1,25 @@
+pluginManagement {
+    repositories {
+        maven {
+            url 'https://tcmpp-work-maven.pkg.coding.net/repository/tcmpp/android'
+        }
+
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        maven {
+            url 'https://tcmpp-work-maven.pkg.coding.net/repository/tcmpp/android'
+        }
+
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "Test_Miniapp"
+include ':app'

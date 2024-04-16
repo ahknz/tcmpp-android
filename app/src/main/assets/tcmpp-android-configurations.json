@@ -1,0 +1,17 @@
+{
+  "customId": "T1710840851AXDNER",
+  "productId": "100902301",
+  "packageName": "com.yunsimon.miniapp",
+  "bundleId": "",
+  "material": "018Vc8VRGqHv0YkfGcWNVHMWroZ8hE8Ynj/RkUQmm6xkowibeDO+O7wlRFLzepqYkHy0Bs8Ciqm5jZJlI2sVInkorwpT7KzhV+YiZDW0SO7iEnMaeldr8ieAsCPUYlVQ5vvi5IDHuQIZMbKGAYE1nHUK6jQiQ5q4M2tNoZgr9ModTZC5qnzxgM9wl9ffFBKx8GefB+ubXjER2k+HSKPs4a9Rkcndj+6lCy0E7v2QmIyv6cEBvxeIJANal2GRycebDrorhKFom0OPB2kN1ZGdILVvDgm0fmQDJ49Zs1uj0eTJp462HNdVeqvDvUNcYALil9X5Yoz3IeW5tv/rz13y1vjFBw7APOOSAQLMCzKoBD7MrnEDtZEZMOXiHat9lTW5wIBMlb/AipjewnrWPiZvVOlDDeQ5JUO5Atmc+Xm3UqSjeRryL/v6r0yudPgvJnTgSzijFdgCwtg5eQD751WHFPUqnCqLPLFxkbE86/qLTLut0zb+SQ9BZNqBDcl7MHbQjkjVVZ3TqNHjHdKFdXducMMVmGj2/BMlZMGnqF0SemL9dzaLcQjkepVUuZLDJRcBc2Nl02dkAguEFViv9zBxcPbg==62c06e4ae340c6d2",
+  "shark": {
+    "httpUrl": "https://api.tcmpp.tmfcloud.com",
+    "tcpHost": "api.tcmpp.tmfcloud.com",
+    "tcpPort": 0,
+    "appKey": "app-n1r07la5rf",
+    "symEnc": 2,
+    "asymEnc": 1
+  },
+  "feedback": "https://feedback.tcmpp.tmfcloud.com",
+  "qapmUrl": ""
+}
